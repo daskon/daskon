@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daskon
-- 👀 I’m interested in back-end system development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in full-stack system development
+- 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on with other freelance software engineers.
 - 📫 How to reach me ...
 
